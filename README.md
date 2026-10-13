@@ -1,3 +1,3 @@
 # `Hello, World!`
 
-I'm Pablo, a graduate student at the University of Chicago's [Master of Science in Computer Science and Policy](https://capp.uchicago.edu). As an aspiring data scientist with four years of experience in data-driven economic research, I'm committed to the use of analytics for better decision-making at the intersection of the public and private sectors. I'm currently seeking opportunities in technology, sustainable finance, and renewable energy that address social and business challenges through evidence-based solutions.
+I'm Pablo. I work as a Data Scientist at NYC's Office of Technology and Innovation. I hold a [Master of Science in Computer Science and Policy](https://capp.uchicago.edu) from the University of Chicago. I have more than four years of experience in data-driven economic research, I'm committed to the use of analytics for better decision-making at the intersection of the public and private sectors.
